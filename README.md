@@ -1,7 +1,7 @@
 
 # paris olympics 2024 dashboard analysics
 
-![paris.jpeg(https://github.com/saicharannetha/paris_olympics-2024-dashboard_analysis/blob/main/paris.jpeg)
+
 
 ## overview
 This repository contains the  data for a project focused on analyzing paris olympics 2024. The project utilizes Excel for comprehensive insights and visualization.
