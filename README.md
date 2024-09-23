@@ -1,6 +1,5 @@
 
-# paris olympics 2024 dashboard analysics
-
+# paris olympics medals 2024 dashboard using excel
 ![paris.png](https://github.com/saicharannetha/paris_olympics-2024-dashboard_analysis/blob/main/paris.png)
 
 ## overview
